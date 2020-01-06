@@ -11806,11 +11806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CICDDemo\\CICDDemo\\CICDDemo\\CICDDemo\\CICDDemo.csproj",
+      "projectUniqueName": "C:\\CICDDemo\\CICDDemo\\CICDDemo.csproj",
       "projectName": "CICDDemo",
-      "projectPath": "C:\\CICDDemo\\CICDDemo\\CICDDemo\\CICDDemo\\CICDDemo.csproj",
+      "projectPath": "C:\\CICDDemo\\CICDDemo\\CICDDemo.csproj",
       "packagesPath": "C:\\Users\\saurav.gayawar.AIS-SAURAV\\.nuget\\packages\\",
-      "outputPath": "C:\\CICDDemo\\CICDDemo\\CICDDemo\\CICDDemo\\obj\\",
+      "outputPath": "C:\\CICDDemo\\CICDDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
